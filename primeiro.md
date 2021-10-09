@@ -15,3 +15,9 @@
 ## Código na linguagem C
 
 
+```c
+int main (void){
+    prinf("Olá Deivid");
+    return 0;
+}
+```
