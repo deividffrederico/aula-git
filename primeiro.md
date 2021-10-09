@@ -15,7 +15,7 @@
 
 ```c
 int main (void){
-    prinf("Olá mundo");
+    prinf("Olá Deivid");
     return 0;
 }
 ```
