@@ -9,7 +9,9 @@
 
 ## Aprendendo Ramos
 
-
+1. Criando Ramos
+2. Chaveando entre ramos
+3. Mesclando Ramos
 ## Código na linguagem C
 
 
