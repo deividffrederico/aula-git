@@ -6,12 +6,14 @@
 - Formatando documento
 - Trabalhando com lista de itens
 - Inserindo trechos de código
+- Inserindo imagens
 
 ## Aprendendo Ramos
 
 1. Criando Ramos
 2. Chaveando entre ramos
 3. Mesclando Ramos
+4. Apagando Ramos
 ## Código na linguagem C
 
 
