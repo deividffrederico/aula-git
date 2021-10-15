@@ -1,0 +1,6 @@
+*.db
+*.cnf
+
+database/
+
+!*.txt   #nunca ignore
