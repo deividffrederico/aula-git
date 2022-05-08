@@ -124,7 +124,7 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-!lista-02/exercicio-01/libs/*.jar
+!aula-git/lista-02/exercicio-01/libs/*.jar
 #!*.algs4.jar
 *.jar
 *.war
