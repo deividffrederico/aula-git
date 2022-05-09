@@ -124,7 +124,7 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-!aula-git/lista-02/exercicio-01/libs/*.jar
+
 #!*.algs4.jar
 *.jar
 *.war
@@ -133,6 +133,8 @@ fabric.properties
 *.zip
 *.tar.gz
 *.rar
+
+!aula-git/lista-02/exercicio-01/libs/*.jar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
