@@ -134,7 +134,7 @@ fabric.properties
 *.tar.gz
 *.rar
 
-!aula-git/lista-02/exercicio-01/libs/*.jar
+!lista-02/exercicio-01/libs/*.jar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
